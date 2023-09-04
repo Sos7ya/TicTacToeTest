@@ -1,0 +1,16 @@
+{
+  "name": "hazzletest",
+  "version": "1.0.0",
+  "description": "test game tic tac toe",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sostick",
+  "license": "ISC",
+  "dependencies": {
+    "@types/phaser": "^3.60.0",
+    "phaser": "^3.60.0",
+    "typescript": "^5.2.2"
+  }
+}
